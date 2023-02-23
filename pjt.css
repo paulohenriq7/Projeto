@@ -1,0 +1,99 @@
+body{
+width: 100%;
+height: 100%;
+margin: 0 auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.logo ul {
+   background-color: black;
+   width: 100%;
+   height: 85px;
+   text-align: center;
+}
+
+.header {
+  background-color: #ffffff;  
+  width: 100%;
+  border-bottom: 3px solid #efefef;
+}
+
+.menu li {
+display: inline-block;
+margin: 0 auto;
+color: #8b8b8b;
+font-size: 18px;
+margin-left: 20px;
+height: 20px;
+text-decoration: none;
+}
+
+.menu li a:hover {
+  border-bottom: 3px solid #00bac6;
+  text-decoration: none;
+}
+
+#decoration {
+  text-decoration: none;
+  color: black;
+  padding-right: 45px;
+}
+
+.header2 {
+  padding: 10px;
+}
+
+  .container {
+    height: 600px;
+    width: 600px;
+  }
+
+ .lado {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+ }
+
+ .lado2 {
+display: inline-flex;
+padding-left: 20px;
+padding-right: 20px;
+ }
+
+ .lado2, p {
+  text-align: justify;
+  display: inline-flex;
+  padding-left: 20px;
+  padding-right: 20px;
+   }
+
+   #noruega{
+    padding-left: 60px;
+  font-size: 12px;
+   }
+
+   .lado3{
+    text-align: justify;
+    display: inline-flex;
+    padding-left: 20px;
+    padding-right: 20px;
+     }
+
+  #id1 {
+    text-align: left, justify;
+    padding-left: 100px;
+    padding: 200px;
+  }
+
+  #laele {
+    text-align: left;
+
+  font-size: 12px;
+   }
+
+   .lado4{
+    text-align: justify;
+    display: inline-flex;
+    padding-left: 20px;
+    padding-right: 20px;
+     }
