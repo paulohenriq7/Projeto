@@ -5,6 +5,7 @@ margin: 0 auto;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+
 .logo ul {
    background-color: black;
    width: 100%;
@@ -81,6 +82,10 @@ a:link {
   text-align: justify;
  }
 
+ #nor2 {
+  padding-left: 50px;
+  
+ }
 
 
  /*. .container {
