@@ -36,28 +36,61 @@ text-decoration: none;
 #decoration {
   text-decoration: none;
   color: black;
-  padding-right: 45px;
+  padding-right: 4px;
 }
 
 .header2 {
   padding: 10px;
 }
 
-  .container {
-    height: 600px;
-    width: 600px;
-  }
+#noruega {
+  padding-left: 30px;
+ 
+}
 
- .lado {
+.noruega {
+  padding-left: 30px; 
+}
+
+.fora {
+  padding-left: 30px; 
+}
+
+
+.box {
+  overflow: hidden;
+}
+
+.box:hover .noruega{
+  transform: scale(1.1);
+}
+
+a:link {
+  text-decoration: none;
+}
+
+#fonte {
+  color: black;
+  text-align:left;
+  text-decoration: none;
+}
+
+.lado {
   padding-left: 20px;
   padding-right: 20px;
   text-align: justify;
  }
 
+
+
+ /*. .container {
+    height: 600px;
+    width: 600px;
+  }
+
+
  .lado2 {
-display: inline-flex;
-padding-left: 20px;
-padding-right: 20px;
+
  }
 
  .lado2, p {
@@ -97,3 +130,15 @@ padding-right: 20px;
     padding-left: 20px;
     padding-right: 20px;
      }
+
+     #bola{
+      padding-left: 640px;
+     }
+
+.id1 {
+    width: 5px;
+    height: 32px;
+    background-color: #00853B;
+    border: #D47402 2px;
+}*/
+
