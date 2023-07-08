@@ -87,6 +87,25 @@ a:link {
   
  }
 
+ #nor3 {
+  padding-left: 190px;
+  
+ }
+
+ #noruegap {
+  text-align: justify;
+  padding-left: 20px;
+ }
+
+ #noruegap1 {
+  text-align: justify;
+ 
+ }
+
+ #fundo {
+  background-color: #c5c4c4;
+ }
+
 
  /*. .container {
     height: 600px;
