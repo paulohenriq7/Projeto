@@ -92,6 +92,10 @@ a:link {
   
  }
 
+ #nor4 {
+  padding-left: 190px;
+ }
+
  #noruegap {
   text-align: justify;
   padding-left: 20px;
@@ -102,9 +106,316 @@ a:link {
  
  }
 
+ #noruegap2 {
+  text-align: justify;
+ padding-left: 230px;
+ padding-right: 240px;
+ }
+
  #fundo {
   background-color: #c5c4c4;
  }
+
+ #imgafc{
+  padding-left: 50px;
+ }
+
+ .caf {
+  display: inline-flex;
+ }
+
+ .cafimg {
+  padding-left: 220px;
+ }
+
+ .cafp {
+  padding: 25px;
+  padding-left: 30px;
+ padding-right: 237px;
+ text-align: justify;
+ }
+
+ .afc {
+  display: inline-flex;
+ }
+
+ .afcimg {
+  padding-left: 220px;
+ }
+
+ .afcp {
+  padding: 10px;
+  padding-left: 30px;
+ padding-right: 237px;
+ text-align: justify;
+ }
+
+ .uefa {
+  display: inline-flex;
+ }
+
+ .uefaimg {
+  padding-left: 220px;
+ }
+
+ .uefap {
+  padding: 30px;
+  padding-left: 30px;
+ padding-right: 237px;
+ text-align: justify;
+ }
+
+ .concacaf {
+  display: inline-flex;
+ }
+
+ .concacafimg {
+  padding-left: 200px;
+ }
+
+ .concacafp {
+  padding: 30px;
+  padding-left: 20px;
+ padding-right: 237px;
+ text-align: justify;
+ }
+
+ .ofc {
+  display: inline-flex;
+ }
+
+ .ofcimg {
+  padding-left: 220px;
+ }
+
+ .ofcp {
+  padding: 30px;
+  padding-left: 50px;
+ padding-right: 237px;
+ text-align: justify;
+ }
+
+ .conmebol {
+  display: inline-flex;
+ }
+
+ .conmebolimg {
+  padding-left: 200px;
+ }
+
+ .conmebolp {
+  padding: 30px;
+  padding-left: 50px;
+ padding-right: 237px;
+ text-align: justify;
+ }
+
+  #nor5 {
+    padding-left: 170px;
+  }
+
+  .qatar {
+ -webkit-filter: drop-shadow(0px 0px 20px rgba(0 0 0 / 90%));
+ filter: drop-shadow(0px 0px 20px rgba(0 0 0 / 90%));
+ padding-left: 25px;
+  }
+
+  #qatarimg {
+    border-radius: 10px;
+  }
+
+  #qatarp {
+    padding: 10px;
+    padding-left: 85px;
+    font-weight: bold;
+  }
+
+  #equadorp {
+    padding: 10px;
+    padding-left: 71px;
+    font-weight: bold;
+  }
+
+  #senegalp {
+    padding: 10px;
+    padding-left: 71px;font-weight: bold;
+  }
+
+  #holandap {
+    padding: 10px;
+    padding-left: 71px;font-weight: bold;
+  }
+
+  
+  #inglaterrap {
+    padding: 10px;
+    padding-left: 65px;
+    font-weight: bold;
+  }
+
+  #irap {
+    padding: 10px;
+    padding-left: 88px;
+    font-weight: bold;
+  }
+
+  #euap {
+    padding: 10px;
+    padding-left: 88px;
+    font-weight: bold;
+  }
+
+  #galesp {
+    padding: 10px;
+    padding-left: 53px;
+    font-weight: bold;
+  }
+
+  
+  #argentinap {
+    padding: 10px;
+    padding-left: 65px;
+    font-weight: bold;
+  }
+
+  #arabiap {
+    padding: 10px;
+    padding-left: 42px;
+    font-weight: bold;
+  }
+
+  #mexicop {
+    padding: 10px;
+    padding-left: 71px;
+    font-weight: bold;
+  }
+
+  #poloniap {
+    padding: 10px;
+    padding-left: 75px;
+    font-weight: bold;
+  }
+
+  
+  #francap {
+    padding: 10px;
+    padding-left: 75px;
+    font-weight: bold;
+  }
+
+  #dinamarcap {
+    padding: 10px;
+    padding-left: 62px;
+    font-weight: bold;
+  }
+
+  #australiap {
+    padding: 10px;
+    padding-left: 67px;
+    font-weight: bold;
+  }
+
+  #tunisiap {
+    padding: 10px;
+    padding-left: 78px;
+    font-weight: bold;
+  }
+
+  #espanhap {
+    padding: 10px;
+    padding-left: 71px;
+    font-weight: bold;
+  }
+
+  #costap {
+    padding: 10px;
+    padding-left: 62px;
+    font-weight: bold;
+  }
+
+  #japaop {
+    padding: 10px;
+    padding-left: 80px;
+    font-weight: bold;
+  }
+
+  #alemanhap {
+    padding: 10px;
+    padding-left: 65px;
+    font-weight: bold;
+  }
+
+  #belgicap {
+    padding: 10px;
+    padding-left: 70px;
+    font-weight: bold;
+  }
+
+  #canadap {
+    padding: 10px;
+    padding-left: 70px;
+    font-weight: bold;
+  }
+
+  #croaciap {
+    padding: 10px;
+    padding-left: 75px;
+    font-weight: bold;
+  }
+
+  #marrocosp {
+    padding: 10px;
+    padding-left: 65px;
+    font-weight: bold;
+  }
+
+  #brasilp {
+    padding: 10px;
+    padding-left: 77px;
+    font-weight: bold;
+  }
+
+  #serviap {
+    padding: 10px;
+    padding-left: 78px;
+    font-weight: bold;
+  }
+
+  #suicap {
+    padding: 10px;
+    padding-left: 77px;
+    font-weight: bold;
+  }
+
+  #camaroesp {
+    padding: 10px;
+    padding-left: 63px;
+    font-weight: bold;
+  }
+
+  #portugalp {
+    padding: 10px;
+    padding-left: 75px;
+    font-weight: bold;
+  }
+
+  #uruguaip {
+    padding: 10px;
+    padding-left: 73px;
+    font-weight: bold;
+  }
+
+  #coreiap {
+    padding: 10px;
+    padding-left: 48px;
+    font-weight: bold;
+  }
+
+  #ganap {
+    padding: 10px;
+    padding-left: 78px;
+    font-weight: bold;
+  }
 
 
  /*. .container {
