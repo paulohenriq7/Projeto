@@ -459,6 +459,56 @@ a:link {
         padding-right: 130px;
        }
 
+  .prim {
+   width: 10px;
+   height: 10px;
+   border: 5px solid green;
+   display: inline-flex;
+  }
+
+  .prim2 {
+    width: 10px;
+    height: 10px;
+    border: 5px solid blue;
+    display: inline-flex;
+   }
+
+   .prim3 {
+    width: 10px;
+    height: 10px;
+    border: 5px solid gray;
+    display: inline-flex;
+   }
+
+   .prim4 {
+    display: inline-flex;
+   }
+
+   .prim5 {
+    width: 15px;
+    height: 15px;
+    border: 10px solid green;
+    display: inline-flex;
+   }
+
+   .prim6 {
+    width: 15px;
+    height: 15px;
+    border: 10px solid blue;
+    display: inline-flex;
+   }
+
+   .prim7 {
+    width: 15px;
+    height: 15px;
+    border: 10px solid gray;
+    display: inline-flex;
+   }
+
+   #oi {
+  padding-left: 4px;
+   }
+
 
   /*caf
 
