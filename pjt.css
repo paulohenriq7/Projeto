@@ -51,7 +51,12 @@ text-decoration: none;
 
 .noruega {
   padding-left: 30px; 
+  
 }
+
+/*.noruega img {
+  border-radius: 10px;
+}*/
 
 .fora {
   padding-left: 30px; 
@@ -64,6 +69,7 @@ text-decoration: none;
 
 .box:hover .noruega{
   transform: scale(1.1);
+  transition: .5s;
 }
 
 a:link {
